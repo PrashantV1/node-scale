@@ -1,0 +1,5 @@
+module.exports.Appuser = require('./appuser.model');
+module.exports.Admin = require('./admin.model');
+module.exports.Password = require('./password.model');
+module.exports.Token = require('./token.model');
+module.exports.Scheduler = require('./scheduler.model');
